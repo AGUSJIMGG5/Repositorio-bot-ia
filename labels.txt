@@ -1,0 +1,6 @@
+0 sedan
+1 suv
+2 convertible
+3 minivan
+4 todoterreno
+5 camion
